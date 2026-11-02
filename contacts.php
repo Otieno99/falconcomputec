@@ -8,7 +8,7 @@
 </div>
 <div><h4 class="abt">Want to do business with us? Contact us today <br>and get our latest offers!</h4></div>
 <div class="column">
-    <img src="images/IMAGE6.jpg">
+    <img src="IMAGE6.jpg">
 </div>
 <div class="tire">
 <div class="abt">
